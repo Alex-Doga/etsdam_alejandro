@@ -1,8 +1,8 @@
-#Titulo Principal
+# Titulo Principal
 
-##Subtitulo##
+## Subtitulo
 
-###Introducción.
+### Introducción.
 
 Trabajo de ETS por Alejandro Donate García para la práctica con Markdown
 
