@@ -31,6 +31,6 @@ Al ser un desarrollo de software que se permite visualizar del software cada X t
 
 + Finalmente, describe el papel fundamental de la Fase de Mantenimiento en la corrección de defectos ("mantenimiento correctivo") y la adaptación a nuevas situaciones ("mantenimiento evolutivo y adaptativo") a lo largo de la vida útil del software.
 
-La fase de mantenimiento es fundamental en la vida de un software. Este garantiza que durante la vida de este se sigan corrigiendo errores ("Mantenimiento correctivo") o que por otro lado se añadan cosas para mejorar el funcionamiento del software a futuro ("Mantenimiento evolutivo y adaptativo").
+La fase de mantenimiento es fundamental en la vida de un software. Esta fase garantiza que durante la vida de este se sigan corrigiendo errores ("Mantenimiento correctivo") o que por otro lado se añadan cosas para mejorar al funcionamiento del software, nuevas opciones o caracteristicas ("Mantenimiento evolutivo y adaptativo").
 
 
