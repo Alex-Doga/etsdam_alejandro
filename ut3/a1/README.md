@@ -23,21 +23,20 @@ En esta practica se va a presentar un informe sobre IntelliJ IDEA.
 
 #### ***Objetivos***. <a name="id2"></a>
 
-El objetivo de la practica es conocer un poco mas sobre este software de entornos de desarrol>
+El objetivo de la practica es conocer un poco mas sobre este software de entornos de desarrollo, como descargarlo y utilizarlo.
 
 #### ***Material empleado***. <a name="id3"></a>
 
-Para la practica se han usado tanto las terminales de varios equipos para redactar los inform>
+Para la practica se han usado tanto las terminales de varios equipos para redactar el informe como maquinas virtuales para la descarga del software. La maquina que usamos tenia una SO Linux Ubuntu con 4 GB de Memoria RAM.
 
 #### ***Desarrollo***. <a name="id4"></a>
 
-Para empezar podemos comenzar hablando sobre el origen brevemente. IntelliJ fue creado por Je>
-Nacio en principio solo para Java pero hoy en día el IDE soporta una gran variedad de lenguaj>
+Para empezar podemos comenzar hablando sobre el origen brevemente. IntelliJ fue creado por la empresa JetBrains. Nacio en principio solo para Java pero hoy en día el IDE soporta una gran variedad de lenguajes de programacion.
 
-La instalacion del programa es bastante sencilla. Los pasos que vas a ver los realizamos como>
-- Lo que vamos a hacer primero es ir a la pagina del software para descargarnos los archivos >
-- Posteriormente lo que vamos a hacer es entrar en la terminal y movernos a la carpeta donde >
-- Por ultimo lo quer tendremos que hacer es salir a la localizacion donde hayamos instalado e>
+La instalacion del programa es bastante sencilla. Los pasos que vas a ver los realizamos como mencionamos anteriormente en una maquina virtual Linux Ubuntu.
+- Lo que vamos a hacer primero es ir a la pagina del software para descargarnos los archivos del programa (Captura 1ª "Descargar_IntelliJ IDEA" en la carpeta img/).
+- Posteriormente lo que vamos a hacer es entrar en la terminal y movernos a la carpeta donde hemos descargado los archivos. Ahi nos meteremos una vez mas dentro de la carpeta del archivo descargado. Dentro de esta encontraremos el archivo que tendremos que instalar desde la terminal (Captura 2ª "Instalacion_IntelliJ IDEA" en la carpeta img/).
+- Por ultimo lo quer tendremos que hacer es salir a la localizacion donde hayamos instalado el programa y entrar en el para empezar a trabajar con el IDE (Captura 3ª "IntelliJ_Instalado" en la carpeta img/). 
 
 Ahora para podemos hablar de las caracteristicas que tiene este software.
 + Compiladop / Interprete:
