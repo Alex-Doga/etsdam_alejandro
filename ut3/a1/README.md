@@ -5,8 +5,8 @@
 
 </center>
 
-**Nombres: Alejandro, Diego A, Eugenio, Juan P**
-**Curso: 1º DAM**
+***Nombres: Alejandro, Diego A, Eugenio, Juan P***
+***Curso: 1º DAM***
 
 ### ÍNDICE
 
