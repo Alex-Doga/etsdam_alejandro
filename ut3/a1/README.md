@@ -35,7 +35,7 @@ Para empezar podemos comenzar hablando sobre el origen brevemente. IntelliJ fue 
 
 La instalacion del programa es bastante sencilla. Los pasos que vas a ver los realizamos como mencionamos anteriormente en una maquina virtual Linux Ubuntu.
 - Lo que vamos a hacer primero es ir a la pagina del software para descargarnos los archivos del programa (Captura 1ª "Descargar_IntelliJ IDEA" en la carpeta img/).
-- Posteriormente lo que vamos a hacer es entrar en la terminal y movernos a la carpeta donde hemos descargado los archivos. Ahi nos meteremos una vez mas dentro de la carpeta del archivo descargado. Dentro de esta encontraremos el archivo que tendremos que instalar desde la terminal (Captura 2ª "Instalacion_IntelliJ IDEA" en la carpeta img/).
+- Posteriormente lo que vamos a hacer es entrar en la terminal y movernos a la carpeta donde hemos descargado los archivos. Ahi nos meteremos una vez mas dentro de la carpeta del archivo descargado. Dentro de esta encontraremos el archivo que tendremos que instalar desde la terminal (Captura 2ª "Instalacion_IntelliJ IDEA Terminal" en la carpeta img/).
 - Por ultimo lo quer tendremos que hacer es salir a la localizacion donde hayamos instalado el programa y entrar en el para empezar a trabajar con el IDE (Captura 3ª "IntelliJ_Instalado" en la carpeta img/). 
 
 Ahora para podemos hablar de las caracteristicas que tiene este software.
