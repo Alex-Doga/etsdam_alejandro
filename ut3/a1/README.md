@@ -5,7 +5,7 @@
 
 </center>
 
-***Nombres: Alejandro, Diego A, Eugenio, Juan P y ***
+***Nombres: Alejandro, Diego A, Eugenio, Juan P ***
 ***Curso: 1º DAM***
 
 ### ÍNDICE
@@ -39,6 +39,37 @@ La instalacion del programa es bastante sencilla. Los pasos que vas a ver los re
 - Posteriormente lo que vamos a hacer es entrar en la terminal y movernos a la carpeta donde >
 - Por ultimo lo quer tendremos que hacer es salir a la localizacion donde hayamos instalado e>
 
+Ahora para podemos hablar de las caracteristicas que tiene este software.
++ Compiladop / Interprete:
+- IntelliJ no tiene un compilador de por sí integrado en el software. Este usa otros compiladores ya existentes, principalmente el compilador estándar de Java llamado “javac”. Además, no sólo se puede utilizar este sino que IntelliJ te permite usar compiladores de más lenguajes como Kotlin, Scala, Groovy, etc.
+- Una de las mayores fortalezas del compilador que usa IntelliJ IDEA es su compilación incremental. Esto significa que cada vez que se realice un cambio, en vez de recompilar todo el código desde cero, IntelliJ solo compila los archivos modificados.
+
++ Depurador / Debugger:
+- Este está completamente integrado dentro de IntelliJ IDEA. Permite la ejecución de líneas concretas de código, con puntos de interrupción de distintos tipos:
+	+ Condicionales:
+		- Permiten que el código se detenga si se cumple una condición booleana.
+	+ Dependientes:
+		- Esto depende de un primer checkpoint. Si el primero no se completa el dependiente no llegará a activarse.
+	+ De excepción:
+		- Permiten detener la ejecución de un programa en el punto exacto donde se genere una excepción (error).
+
++ Control de versiones:
+- El control de versiones o VCS de intelliJ IDEA soporta la integración nativa de sistemas populares como Git o Subversion.
+
++ Refactorización:
+- Las Herramientas de refactorización dentro de IntelliJ IDEA permiten modificar la estructura del código de forma segura y eficiente.
+Podemos renombrar elementos de forma segura. Extraer métodos para simplificar el código. Eliminar código muerto o no utilizado
+
++ Plugins:
+- IntelliJ IDEA tiene una amplia variedad de plugins que podemos utilizar. Los para mencionar algunos los podemos dividir en algunas secciones principales como:
+	+ De productividad:
+		- Git Toolbox. Información adicional sobre Git.
+		- SonarLint. Analiza la calidad del código.
+	+ De desarrollo:
+		- Cucumber for Java/Gherkin. Esenciales para los proyectos que usen metodologías de Desarrollo guiado por comportamiento. 
+		- .env Files support. Permite reconocer correctamente los archivos .env dentro del IDE.
+	+ De temas:
+		- Atom material Icons. Reemplaza los iconos del software para hacerlos más coloridos, visibles y entendibles.
 
 
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escrito>
@@ -47,4 +78,4 @@ Si encontramos dificultades a la hora de realizar algún paso debemos explicar e
 
 #### ***Conclusiones***. <a name="id5"></a>
 
-En esta parte debemos exponer las conclusiones que sacamos del desarrollo de la prácica.
+Con este informe que hemos desarrollado podemos sacar la conclusion de que el software de desarrollo IntelliJ IDEA funciona como una herramienta potente que al ser sacada fue una completa revolucion en la industria. Puede que hoy sea superada por otros programas como VSC pero podemos decir que sigue siendo uno de los mejores softwares para el desarrollo de entornos.
