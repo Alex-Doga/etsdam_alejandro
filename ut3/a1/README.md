@@ -1,6 +1,6 @@
 <center>
 
-# TÍTULO DE LA PRÁCTICA
+# INFORME INTELLIJ IDEA
 
 
 </center>
