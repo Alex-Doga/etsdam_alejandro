@@ -5,8 +5,10 @@
 
 </center>
 
-***Nombres: Alejandro, Diego A, Eugenio, Juan P***
+---
+***Nombres: Alejandro, Diego A, Eugenio, Juan P y Johan***
 ***Curso: 1º DAM***
+---
 
 ### ÍNDICE
 
@@ -16,6 +18,7 @@
 + [Desarrollo](#id4)
 + [Conclusiones](#id5)
 
+---
 
 #### ***Introducción***. <a name="id1"></a>
 
@@ -74,6 +77,8 @@ Podemos renombrar elementos de forma segura. Extraer métodos para simplificar e
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escrito>
 
 Si encontramos dificultades a la hora de realizar algún paso debemos explicar esas dificultad>
+
+---
 
 #### ***Conclusiones***. <a name="id5"></a>
 
