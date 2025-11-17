@@ -74,7 +74,7 @@ Podemos renombrar elementos de forma segura. Extraer métodos para simplificar e
 		- Atom material Icons. Reemplaza los iconos del software para hacerlos más coloridos, visibles y entendibles.
 
 
-> ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escrito>
+> ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escrito.
 
 ---
 
