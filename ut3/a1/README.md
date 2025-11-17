@@ -42,7 +42,7 @@ La instalacion del programa es bastante sencilla. Los pasos que vas a ver los re
 - Por ultimo lo quer tendremos que hacer es salir a la localizacion donde hayamos instalado el programa y entrar en el para empezar a trabajar con el IDE (Captura 3ª "IntelliJ_Instalado" en la carpeta img/). 
 
 Ahora para podemos hablar de las caracteristicas que tiene este software.
-+ Compiladop / Interprete:
++ Compilador / Interprete:
 - IntelliJ no tiene un compilador de por sí integrado en el software. Este usa otros compiladores ya existentes, principalmente el compilador estándar de Java llamado “javac”. Además, no sólo se puede utilizar este sino que IntelliJ te permite usar compiladores de más lenguajes como Kotlin, Scala, Groovy, etc.
 - Una de las mayores fortalezas del compilador que usa IntelliJ IDEA es su compilación incremental. Esto significa que cada vez que se realice un cambio, en vez de recompilar todo el código desde cero, IntelliJ solo compila los archivos modificados.
 
