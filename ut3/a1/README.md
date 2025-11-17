@@ -76,8 +76,6 @@ Podemos renombrar elementos de forma segura. Extraer métodos para simplificar e
 
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escrito>
 
-Si encontramos dificultades a la hora de realizar algún paso debemos explicar esas dificultad>
-
 ---
 
 #### ***Conclusiones***. <a name="id5"></a>
