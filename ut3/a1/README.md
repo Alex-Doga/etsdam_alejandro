@@ -43,27 +43,27 @@ La instalacion del programa es bastante sencilla. Los pasos que vas a ver los re
 
 Ahora para podemos hablar de las caracteristicas que tiene este software.
 + Compilador / Interprete:
-- IntelliJ no tiene un compilador de por sí integrado en el software. Este usa otros compiladores ya existentes, principalmente el compilador estándar de Java llamado “javac”. Además, no sólo se puede utilizar este sino que IntelliJ te permite usar compiladores de más lenguajes como Kotlin, Scala, Groovy, etc.
-- Una de las mayores fortalezas del compilador que usa IntelliJ IDEA es su compilación incremental. Esto significa que cada vez que se realice un cambio, en vez de recompilar todo el código desde cero, IntelliJ solo compila los archivos modificados.
+	- IntelliJ no tiene un compilador de por sí integrado en el software. Este usa otros compiladores ya existentes, principalmente el compilador estándar de Java llamado “javac”. Además, no sólo se puede utilizar este sino que IntelliJ te permite usar compiladores de más lenguajes como Kotlin, Scala, Groovy, etc.
+	- Una de las mayores fortalezas del compilador que usa IntelliJ IDEA es su compilación incremental. Esto significa que cada vez que se realice un cambio, en vez de recompilar todo el código desde cero, IntelliJ solo compila los archivos modificados.
 
 + Depurador / Debugger:
-- Este está completamente integrado dentro de IntelliJ IDEA. Permite la ejecución de líneas concretas de código, con puntos de interrupción de distintos tipos:
-	+ Condicionales:
-		- Permiten que el código se detenga si se cumple una condición booleana.
-	+ Dependientes:
-		- Esto depende de un primer checkpoint. Si el primero no se completa el dependiente no llegará a activarse.
-	+ De excepción:
+	- Este está completamente integrado dentro de IntelliJ IDEA. Permite la ejecución de líneas concretas de código, con puntos de interrupción de distintos tipos:
+		+ Condicionales:
+			- Permiten que el código se detenga si se cumple una condición booleana.
+		+ Dependientes:
+			- Esto depende de un primer checkpoint. Si el primero no se completa el dependiente no llegará a activarse.
+		+ De excepción:
 		- Permiten detener la ejecución de un programa en el punto exacto donde se genere una excepción (error).
 
 + Control de versiones:
-- El control de versiones o VCS de intelliJ IDEA soporta la integración nativa de sistemas populares como Git o Subversion.
+	- El control de versiones o VCS de intelliJ IDEA soporta la integración nativa de sistemas populares como Git o Subversion.
 
 + Refactorización:
-- Las Herramientas de refactorización dentro de IntelliJ IDEA permiten modificar la estructura del código de forma segura y eficiente.
-- Se diferencia de otros programas ya que IntelliJ no simplemente reemplaza el texto, sino que analiza todo el proyecto para identificar con precisión todos los usos de elementos del codigo. 
-- Una gran parte del proceso es de manera automatizada y sin requerimiento de modificaciones manuales. 
-- Ofrece una serie de paquetes completos con herramientas de refactorización integrados, a diferencia de otros programas que tienen que usar plugins. 
-- Podemos renombrar elementos de forma segura. Extraer métodos para simplificar el código. Eliminar código muerto o no utilizado
+	- Las Herramientas de refactorización dentro de IntelliJ IDEA permiten modificar la estructura del código de forma segura y eficiente.
+	- Se diferencia de otros programas ya que IntelliJ no simplemente reemplaza el texto, sino que analiza todo el proyecto para identificar con precisión todos los usos de elementos del codigo. 
+	- Una gran parte del proceso es de manera automatizada y sin requerimiento de modificaciones manuales. 
+	- Ofrece una serie de paquetes completos con herramientas de refactorización integrados, a diferencia de otros programas que tienen que usar plugins. 
+	- Podemos renombrar elementos de forma segura. Extraer métodos para simplificar el código. Eliminar código muerto o no utilizado
 
 + Plugins:
 - IntelliJ IDEA tiene una amplia variedad de plugins que podemos utilizar. Los para mencionar algunos los podemos dividir en algunas secciones principales como:
