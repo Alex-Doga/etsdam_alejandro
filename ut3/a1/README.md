@@ -60,7 +60,10 @@ Ahora para podemos hablar de las caracteristicas que tiene este software.
 
 + Refactorización:
 - Las Herramientas de refactorización dentro de IntelliJ IDEA permiten modificar la estructura del código de forma segura y eficiente.
-Podemos renombrar elementos de forma segura. Extraer métodos para simplificar el código. Eliminar código muerto o no utilizado
+- Se diferencia de otros programas ya que IntelliJ no simplemente reemplaza el texto, sino que analiza todo el proyecto para identificar con precisión todos los usos de elementos del codigo. 
+- Una gran parte del proceso es de manera automatizada y sin requerimiento de modificaciones manuales. 
+- Ofrece una serie de paquetes completos con herramientas de refactorización integrados, a diferencia de otros programas que tienen que usar plugins. 
+- Podemos renombrar elementos de forma segura. Extraer métodos para simplificar el código. Eliminar código muerto o no utilizado
 
 + Plugins:
 - IntelliJ IDEA tiene una amplia variedad de plugins que podemos utilizar. Los para mencionar algunos los podemos dividir en algunas secciones principales como:
