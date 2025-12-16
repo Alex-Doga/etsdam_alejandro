@@ -65,7 +65,7 @@ En la siguiente tabla debes especificar cada clase, la relación existente entre
 
 A continuación se muestra el diagrama de clases: 
 
-
+<img src="/home/dam/Documentos/Entornos_de_desarrollo/etsdam_alejandro/ut4/a1/img/PlataformaFormativa.png">
 
 
 
