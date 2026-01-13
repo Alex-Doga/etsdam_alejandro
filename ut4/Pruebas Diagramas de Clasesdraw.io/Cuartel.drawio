@@ -1,0 +1,75 @@
+<mxfile host="65bd71144e">
+    <diagram id="MzurKsvjzR02wBmNofBL" name="Page-1">
+        <mxGraphModel dx="546" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Soldier" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="154" width="160" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="- soldier_code: string&lt;div&gt;- name: string&lt;/div&gt;&lt;div&gt;- last_name: string&lt;/div&gt;&lt;div&gt;- graduation: string&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry y="26" width="160" height="74" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="2">
+                    <mxGeometry y="100" width="160" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="+ setSoldierCode()&lt;div&gt;+ getSoliderCode()&lt;/div&gt;&lt;div&gt;+ setName()&lt;/div&gt;&lt;div&gt;+ getName()&lt;/div&gt;&lt;div&gt;+ setLastName()&lt;/div&gt;&lt;div&gt;+ getLastName()&lt;/div&gt;&lt;div&gt;+ setGraduation()&lt;/div&gt;&lt;div&gt;+ getGraduation()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry y="108" width="160" height="132" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Quarters" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="154" width="160" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="- quarter_code: string&lt;div&gt;- name: string&lt;/div&gt;&lt;div&gt;- location: string&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6">
+                    <mxGeometry y="26" width="160" height="54" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="6">
+                    <mxGeometry y="80" width="160" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="+ setQuarterCode()&lt;div&gt;+ getQuarterCode()&lt;/div&gt;&lt;div&gt;+ setName()&lt;/div&gt;&lt;div&gt;+ getName()&lt;/div&gt;&lt;div&gt;+ setLocation()&lt;/div&gt;&lt;div&gt;+ getLocation()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6">
+                    <mxGeometry y="88" width="160" height="102" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Quarter Type" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="440" width="160" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="code: string&lt;div&gt;denomination: string&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="10">
+                    <mxGeometry y="26" width="160" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="10">
+                    <mxGeometry y="70" width="160" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="+ setCode()&lt;div&gt;+ getCode()&lt;/div&gt;&lt;div&gt;+ setDenomination()&lt;/div&gt;&lt;div&gt;+ getDenomination()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="10">
+                    <mxGeometry y="78" width="160" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;endSize=20;" edge="1" parent="1" source="10" target="9">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="480" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="Campain" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="440" width="160" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="- campain_number: int&lt;div&gt;- main_activity: string&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="16">
+                    <mxGeometry y="26" width="160" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="16">
+                    <mxGeometry y="70" width="160" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="+ setCampainNumber()&lt;div&gt;+ getCampainNumber()&lt;/div&gt;&lt;div&gt;+ setMainActivity()&lt;/div&gt;&lt;div&gt;+ getMainActivity()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="16">
+                    <mxGeometry y="78" width="160" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Service" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="440" width="160" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="- service_code: string&lt;div&gt;- description: string&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="20">
+                    <mxGeometry y="26" width="160" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="20">
+                    <mxGeometry y="70" width="160" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="+ setServiceCode()&lt;div&gt;+ getServiceCode()&lt;/div&gt;&lt;div&gt;+ setServiceCode()&lt;/div&gt;&lt;div&gt;+ getServiceCode()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="20">
+                    <mxGeometry y="78" width="160" height="72" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
