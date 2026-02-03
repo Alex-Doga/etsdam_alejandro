@@ -89,4 +89,4 @@ Para cada una de las clases se deben implementar los siguientes **métodos**:
 
 A continuación se muestra el **diagrama de clases** realiazado:
 
-![Diagrama de clases]((/img/001.png))
+![Diagrama de clases](/ut4/a2/img/ClinicaVeterinaria.png)
